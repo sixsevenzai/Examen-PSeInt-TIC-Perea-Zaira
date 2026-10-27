@@ -1,8 +1,6 @@
 # Examen-PSeInt-TIC-Perea-Zaira 
-ejercicio_12.psc
 Algoritmo Búsqueda_de_un_NúmeroSecreto
 	Definir numsecreto, num Como entero;
-	
 	Escribir "Ingrese un numero: "; 
 	Leer num; 
 	numsecreto= Aleatorio(1,100);
@@ -12,7 +10,6 @@ Algoritmo Búsqueda_de_un_NúmeroSecreto
 			SiNo
 				Escribir "el numero es menor:";
 			FinSi
-			
 	FinMientras
 	
 
